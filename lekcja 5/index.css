@@ -1,0 +1,43 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kontener{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightgrey;
+}
+.jeden{
+    width: 20vw;
+    height: 10vh;
+    background-color: red;
+}
+
+.dwa{
+    width: 20vw;
+    height: 10vh;
+    background-color: pink;
+}
+
+.trzy{
+    width: 20vw;
+    height: 10vh;
+    background-color: violet;
+}
+
+.cztery{
+    width: 20vw;
+    height: 10vh;
+    background-color: purple;
+}
