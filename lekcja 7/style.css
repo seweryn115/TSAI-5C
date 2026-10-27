@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(31, 31, 81);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    width: 30vw;
+    height: 10vh;
+    background-color: red;
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: wheat;
+    border: 2px solid black;
+}
+
+.newP{
+    width:40vw;
+    height: 40vh;
+    background-color: green;
+    color: red;
+}
+
+#btn{
+    border-radius: 10px;
+    width: 30vw;
+    height: 10vh;
+    background-color: limegreen ;
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: whitesmoke;
+}
